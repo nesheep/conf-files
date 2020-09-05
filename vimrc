@@ -42,6 +42,7 @@ filetype plugin indent on    " required
 
 """""表示関連"""""
 set number "行番号を表示
+set relativenumber "相対行番号を表示
 set nowrap "折り返し無効
 set laststatus=2 "ステータスバーを常に表示
 set showcmd "入力中のコマンドを表示
